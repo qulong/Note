@@ -277,4 +277,6 @@ android下自定义View之雷达扫描 The Radar (Scanning) View on Android 当�
 android文章
 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的
 
+https://github.com/FussenYu/DaemonProject
+app保活 不容易被杀死（我没有试过）
 ******20180709**up****
